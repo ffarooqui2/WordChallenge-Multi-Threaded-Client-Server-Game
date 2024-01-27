@@ -1,4 +1,4 @@
-## Game Title
+## Word Challenge
 ![image](https://github.com/ffarooqui2/WordChallenge-Multi-Threaded-Client-Server-Game/assets/96920961/43751b2e-97ac-4ced-a8b1-392932dd115a)
 
 ## Multi Threading
