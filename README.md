@@ -1,5 +1,12 @@
+
 ## Word Challenge
 ![image](https://github.com/ffarooqui2/WordChallenge-Multi-Threaded-Client-Server-Game/assets/96920961/43751b2e-97ac-4ced-a8b1-392932dd115a)
+
+### During the project, I used...
+> - Multi-threading
+> - Java ServerSocket connections
+> - JavaFX
+> - composite design pattern
 
 ## Multi Threading
 ![image](https://github.com/ffarooqui2/WordChallenge-Multi-Threaded-Client-Server-Game/assets/96920961/ad43caf4-5bcc-41f3-beb5-b9694b6bd595)
